@@ -8,6 +8,7 @@
 #include "lang.h"
 #include <stdlib.h>
 #include <android/bitmap.h>
+#include <string.h>
 
 #include <setjmp.h>
 #include <jpeglib.h>
